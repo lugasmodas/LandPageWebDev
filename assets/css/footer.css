@@ -1,0 +1,10 @@
+footer {
+  background-color: #999;
+  margin-top: 15px;
+}
+
+footer p {
+  width: fit-content;
+  margin: auto;
+  padding: 10px 0;
+}
